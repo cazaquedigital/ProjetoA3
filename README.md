@@ -138,6 +138,3 @@ Obstaculo registrado com sucesso! Total no mapa: 3
 
 - **Vídeo de demonstração (Checkpoint 2):** https://youtu.be/-PKtDVYXWf0
 - **Vídeo de apresentação (Checkpoint 1):** https://youtu.be/G1Ju18nRkPM
-- MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. *Algoritmos: lógica para desenvolvimento de programação de computadores.* 29. ed. São Paulo: Érica, 2019.
-- SOUZA, Marco A. Furlan de et al. *Algoritmos e lógica de programação: um texto introdutório para a engenharia.* 3. ed. São Paulo: Cengage Learning, 2019.
-- DEITEL, Paul; DEITEL, Harvey. *Java: como programar.* 10. ed. São Paulo: Pearson, 2016.
