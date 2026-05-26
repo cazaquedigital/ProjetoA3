@@ -1,5 +1,5 @@
 
-# RotaAcessível 🗺️♿
+# RotaAcessível 
 
 **Sistema de Mapeamento Colaborativo de Obstáculos Urbanos**
 
